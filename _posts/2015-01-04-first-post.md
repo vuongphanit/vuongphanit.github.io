@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First post!
+title: [Java Core] Tìm hiểu về abstract class và abstract method
 image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
+tags: [java core, java, abstract]
 ---
 
 This is my first post, how exciting!
