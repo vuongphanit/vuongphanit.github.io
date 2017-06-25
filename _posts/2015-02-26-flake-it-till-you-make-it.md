@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: [java core] tìm hiểu về abstract class và abstract method
+subtitle: sử dụng abstract class và abstract method trong các dự án
 bigimg: /img/path.jpg
 ---
 
